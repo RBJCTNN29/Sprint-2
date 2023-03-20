@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "63ee1372af56d5b29774f523"
+  },
+  "brand": "Versace",
+  "frame": "floating",
+  "frame colour": "green",
+  "glass colour": "clear",
+  "graduation": "-3, -1.5",
+  "price": "95",
+  "sold by employee": "Jaime Lopez",
+  "sold on date": "12/05/2022"
+},{
+  "_id": {
+    "$oid": "63ee161daf56d5b29774f524"
+  },
+  "brand": "Ray-Ban",
+  "frame": "metal",
+  "frame colour": "gold",
+  "glass colour": "black",
+  "graduation": "0, 0",
+  "price": "140"
+},{
+  "_id": {
+    "$oid": "63f489cbadb3ea3ced182cdc"
+  },
+  "brand": "Stereoflex",
+  "frame": "metal",
+  "frame colour": "black",
+  "glass colour": "pink",
+  "graduation": "-1.5, -1.5",
+  "price": "75",
+  "sold by employee": "Paula Lopez, Jaime Lopez",
+  "sold on date": "23/02/2022, 02/06/2022"
+}]

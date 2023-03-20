@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "63f49c6cadb3ea3ced182ce6"
+  },
+  "address": "Carrer de Robadors 23",
+  "city": "Barcelona",
+  "name": "Joan",
+  "phone": "675843568",
+  "postcode": "08002",
+  "province": "Barcelona",
+  "surnames": "Casals Vives"
+},{
+  "_id": {
+    "$oid": "63f4a01dadb3ea3ced182cf4"
+  },
+  "address": "Carrer de Sants 34",
+  "city": "Barcelona",
+  "name": "Sandra",
+  "phone": "635424876",
+  "postcode": "08011",
+  "province": "Barcelona",
+  "surnames": "DuPont Thoreau"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63f49f44adb3ea3ced182cf1"
+  },
+  "name": "Lucas",
+  "nif": "123456789",
+  "phone": "654543432",
+  "surnames": "Andrade Matos",
+  "type": "chef",
+  "store": "{\n  \"_id\": {\n    \"$oid\": \"63f49d32adb3ea3ced182ce9\"\n  },\n  \"address\": \"Avinguda Diagonal 345\",\n  \"city\": \"Barcelona\",\n  \"province\": \"Barcelona\",\n  \"postcode\": \"08005\"\n}"
+},{
+  "_id": {
+    "$oid": "63f49fbaadb3ea3ced182cf2"
+  },
+  "name": "Gianluca",
+  "nif": "234567891",
+  "phone": "678789890",
+  "surnames": "Capelli",
+  "type": "delivery",
+  "store": "{\n  \"_id\": {\n    \"$oid\": \"63f49d32adb3ea3ced182ce9\"\n  },\n  \"address\": \"Avinguda Diagonal 345\",\n  \"city\": \"Barcelona\",\n  \"province\": \"Barcelona\",\n  \"postcode\": \"08005\"\n}"
+}]

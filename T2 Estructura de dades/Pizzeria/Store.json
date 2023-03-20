@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "63f49d32adb3ea3ced182ce9"
+  },
+  "address": "Avinguda Diagonal 345",
+  "city": "Barcelona",
+  "province": "Barcelona",
+  "postcode": "08005",
+  "orders": "{\n  \"_id\": {\n    \"$oid\": \"63f4a154adb3ea3ced182cfe\"\n  },\n  \"datetime\": \"20:32, 01/03/2022\",\n  \"number beverages\": \"4\",\n  \"number pizzas\": \"3\",\n  \"total price\": \"46\",\n  \"type\": \"delivery\",\n  \"delivery time\": \"21:03, 01/03/2022\",\n  \"deliveryman\": \"{\\n  \\\"_id\\\": {\\n    \\\"$oid\\\": \\\"63f49fbaadb3ea3ced182cf2\\\"\\n  },\\n  \\\"name\\\": \\\"Gianluca\\\",\\n  \\\"nif\\\": \\\"234567891\\\",\\n  \\\"phone\\\": \\\"678789890\\\",\\n  \\\"surnames\\\": \\\"Capelli\\\",\\n  \\\"type\\\": \\\"delivery\\\",\\n  \\\"store\\\": \\\"{\\\\n  \\\\\\\"_id\\\\\\\": {\\\\n    \\\\\\\"$oid\\\\\\\": \\\\\\\"63f49d32adb3ea3ced182ce9\\\\\\\"\\\\n  },\\\\n  \\\\\\\"address\\\\\\\": \\\\\\\"Avinguda Diagonal 345\\\\\\\",\\\\n  \\\\\\\"city\\\\\\\": \\\\\\\"Barcelona\\\\\\\",\\\\n  \\\\\\\"province\\\\\\\": \\\\\\\"Barcelona\\\\\\\",\\\\n  \\\\\\\"postcode\\\\\\\": \\\\\\\"08005\\\\\\\"\\\\n}\\\"\\n}\"\n, {\n  \"_id\": {\n    \"$oid\": \"63f4a154adb3ea3ced182cfe\"\n  },\n  \"datetime\": \"20:32, 01/03/2022\",\n  \"number beverages\": \"4\",\n  \"number pizzas\": \"3\",\n  \"total price\": \"46\",\n  \"type\": \"delivery\",\n  \"delivery time\": \"21:03, 01/03/2022\",\n  \"deliveryman\": \"{\\n  \\\"_id\\\": {\\n    \\\"$oid\\\": \\\"63f49fbaadb3ea3ced182cf2\\\"\\n  },\\n  \\\"name\\\": \\\"Gianluca\\\",\\n  \\\"nif\\\": \\\"234567891\\\",\\n  \\\"phone\\\": \\\"678789890\\\",\\n  \\\"surnames\\\": \\\"Capelli\\\",\\n  \\\"type\\\": \\\"delivery\\\",\\n  \\\"store\\\": \\\"{\\\\n  \\\\\\\"_id\\\\\\\": {\\\\n    \\\\\\\"$oid\\\\\\\": \\\\\\\"63f49d32adb3ea3ced182ce9\\\\\\\"\\\\n  },\\\\n  \\\\\\\"address\\\\\\\": \\\\\\\"Avinguda Diagonal 345\\\\\\\",\\\\n  \\\\\\\"city\\\\\\\": \\\\\\\"Barcelona\\\\\\\",\\\\n  \\\\\\\"province\\\\\\\": \\\\\\\"Barcelona\\\\\\\",\\\\n  \\\\\\\"postcode\\\\\\\": \\\\\\\"08005\\\\\\\"\\\\n}\\\"\\n}\"\n}}"
+},{
+  "_id": {
+    "$oid": "63f4a0b4adb3ea3ced182cf9"
+  },
+  "address": "Carrer de Lleo 7",
+  "city": "Badalona",
+  "postcode": "08911",
+  "province": "Barcelona"
+}]

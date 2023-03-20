@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "63f4a3a4adb3ea3ced182d02"
+  },
+  "description": "pizza with a base of mozzarella, smoked provola, gorgonzola and fontina",
+  "name": "Quattro formaggi",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pizza_quattro_formaggi_at_restaurant%2C_Chalk_Farm_Road%2C_London.jpg/1200px-Pizza_quattro_formaggi_at_restaurant%2C_Chalk_Farm_Road%2C_London.jpg",
+  "price": "10",
+  "category": "Neapolitan pizza"
+},{
+  "_id": {
+    "$oid": "63f4a46badb3ea3ced182d03"
+  },
+  "category": "Deep dish pizza",
+  "description": "Deep dish pizza with a base of mozzarella and topping of pepperoni",
+  "image": "https://cdn.vox-cdn.com/thumbor/tVpaqJPeabbgArsGIcij2s-Bmpg=/0x0:1075x1075/1200x900/filters:focal(456x438:628x610)/cdn.vox-cdn.com/uploads/chorus_image/image/60055049/milly_s_2.27.jpg",
+  "name": "Pepperoni",
+  "price": "12"
+},{
+  "_id": {
+    "$oid": "63f4a509adb3ea3ced182d04"
+  },
+  "category": "other",
+  "description": "toasted bun with patty, lettuce, tomato, pickles and cheddar",
+  "image": "https://groundbeefrecipes.com/wp-content/uploads/double-bacon-cheeseburger-recipe-6.jpg",
+  "name": "cheeseburger",
+  "price": "11"
+},{
+  "_id": {
+    "$oid": "63f4a580adb3ea3ced182d05"
+  },
+  "description": "50 cl plastic bottle of Coca cola",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWTxxJCfMTCrCHzOk0UfPBXcBgut2tp49K8w&usqp=CAU",
+  "name": "Coca cola",
+  "price": "2"
+}]

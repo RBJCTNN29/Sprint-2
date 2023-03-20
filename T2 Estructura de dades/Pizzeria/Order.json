@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63f49d89adb3ea3ced182ceb"
+  },
+  "datetime": "19:45, 12/05/2023",
+  "delivery or pickup": "pickup",
+  "number beverages": "3",
+  "number pizzas": "2",
+  "total price": "35"
+},{
+  "_id": {
+    "$oid": "63f4a154adb3ea3ced182cfe"
+  },
+  "datetime": "20:32, 01/03/2022",
+  "number beverages": "4",
+  "number pizzas": "3",
+  "total price": "46",
+  "type": "delivery",
+  "delivery time": "21:03, 01/03/2022",
+  "deliveryman": "{\n  \"_id\": {\n    \"$oid\": \"63f49fbaadb3ea3ced182cf2\"\n  },\n  \"name\": \"Gianluca\",\n  \"nif\": \"234567891\",\n  \"phone\": \"678789890\",\n  \"surnames\": \"Capelli\",\n  \"type\": \"delivery\",\n  \"store\": \"{\\n  \\\"_id\\\": {\\n    \\\"$oid\\\": \\\"63f49d32adb3ea3ced182ce9\\\"\\n  },\\n  \\\"address\\\": \\\"Avinguda Diagonal 345\\\",\\n  \\\"city\\\": \\\"Barcelona\\\",\\n  \\\"province\\\": \\\"Barcelona\\\",\\n  \\\"postcode\\\": \\\"08005\\\"\\n}\"\n}"
+}]

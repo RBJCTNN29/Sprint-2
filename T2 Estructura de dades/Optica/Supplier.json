@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63ee102caf56d5b29774f520"
+  },
+  "address": "Gran Via de les Corts Catalanes 123, 3o 1a, 08023, Barcelona, Espanya",
+  "fax": "933190012",
+  "name": "Manuel Gonzalez",
+  "nif": "123456789",
+  "phone": "933190011",
+  "glasses supplied": "{\n  \"_id\": {\n    \"$oid\": \"63ee1372af56d5b29774f523\"\n  },\n  \"brand\": \"Versace\",\n  \"frame\": \"floating\",\n  \"frame colour\": \"green\",\n  \"glass colour\": \"clear\",\n  \"graduation\": \"-3, -1.5\",\n  \"price\": \"95\",\n  \"sold by employee\": \"Jaime Lopez\",\n  \"sold on date\": \"12/05/2022\"\n}"
+},{
+  "_id": {
+    "$oid": "63ee1199af56d5b29774f521"
+  },
+  "address": "Avinguda Diagonal 194, 4o 1a, Barcelona, Espanya",
+  "fax": "933170128",
+  "name": "Maria Ruiz",
+  "nif": "012345678",
+  "phone": "933170129",
+  "glasses supplied": "{\n  \"_id\": {\n    \"$oid\": \"63ee161daf56d5b29774f524\"\n  },\n  \"brand\": \"Ray-Ban\",\n  \"frame\": \"metal\",\n  \"frame colour\": \"gold\",\n  \"glass colour\": \"black\",\n  \"graduation\": \"0, 0\",\n  \"price\": \"140\"\n}"
+}]

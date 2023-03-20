@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "63ee167daf56d5b29774f526"
+  },
+  "email": "example1@gmail.com",
+  "name": "Juan Torres",
+  "phone": "644578092",
+  "postcode": "08003",
+  "registration date": "15/06/2015"
+},{
+  "_id": {
+    "$oid": "63ee16f1af56d5b29774f527"
+  },
+  "email": "lucia@gmail.com",
+  "name": "Lucia Gonzalez",
+  "phone": "676589004",
+  "postcode": "08034",
+  "registration date": "3/9/2020",
+  "referred by": "{\n  \"_id\": {\n    \"$oid\": \"63ee167daf56d5b29774f526\"\n  },\n  \"email\": \"example1@gmail.com\",\n  \"name\": \"Juan Torres\",\n  \"phone\": \"644578092\",\n  \"postcode\": \"08003\",\n  \"registration date\": \"15/06/2015\"\n}"
+},{
+  "_id": {
+    "$oid": "63f48bd1adb3ea3ced182cde"
+  },
+  "email": "m.gomez@gmail.com",
+  "name": "Monica Gomez",
+  "phone": "654754235",
+  "postcode": "08001",
+  "registration date": "05/09/2021",
+  "referred by": "{\n  \"_id\": {\n    \"$oid\": \"63ee167daf56d5b29774f526\"\n  },\n  \"email\": \"example1@gmail.com\",\n  \"name\": \"Juan Torres\",\n  \"phone\": \"644578092\",\n  \"postcode\": \"08003\",\n  \"registration date\": \"15/06/2015\"\n}"
+}]

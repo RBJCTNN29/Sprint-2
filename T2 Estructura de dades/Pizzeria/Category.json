@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "63f49bdcadb3ea3ced182ce2"
+  },
+  "category name": "Deep dish pizza"
+},{
+  "_id": {
+    "$oid": "63f49c19adb3ea3ced182ce3"
+  },
+  "category name": "Neapolitan pizza"
+},{
+  "_id": {
+    "$oid": "63f49c3aadb3ea3ced182ce4"
+  },
+  "category name": "Al taglio"
+},{
+  "_id": {
+    "$oid": "63f4a5dbadb3ea3ced182d07"
+  },
+  "name": "other"
+}]
